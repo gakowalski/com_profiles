@@ -1,0 +1,18 @@
+<updates>
+    <update>
+        <name>com_profiles</name>
+        <description></description>
+        <element>com_profiles</element>
+        <type>component</type>
+        <version>1.5.1</version>
+        <infourl title="com_profiles"><![CDATA[ ]]></infourl>
+        <downloads>
+            <downloadurl type="full" format="zip"><![CDATA[https://github.com/gakowalski/com_profiles/archive/1.5.1.zip]]></downloadurl>
+        </downloads>
+        <maintainer>Grzegorz Kowalski</maintainer>
+        <maintainerurl>http://grzegorzkowalski.pl</maintainerurl>
+        <targetplatform name="joomla" version="3.8"/>
+        <client>0</client>
+        <client_id>0</client_id>
+    </update>
+</updates>
